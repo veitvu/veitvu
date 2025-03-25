@@ -10,7 +10,7 @@ Experienced Full-stack Developer with over 8 years in .NET and 5 years managing 
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | C#, Python, Java, JavaScript, TypeScript, PHP, C/C++ |
+| **Languages** | C#, Python, Java, JavaScript, TypeScript, React, PHP, C/C++ |
 | **Frameworks** | .NET Core, React, Spring Boot, FastAPI, ASP.NET, Angular, Vue |
 | **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite *(Advanced: Stored Procedures, Query Optimization, Data Modeling)* |
 | **DevOps & Cloud** | Docker, Redis, Azure, Jenkins, Kubernetes, Kibana |
