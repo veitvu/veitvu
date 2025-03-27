@@ -84,9 +84,6 @@ Experienced Full-stack Developer with over 8 years in .NET and 5 years managing 
 - **Tech**: C#, .NET Core, Angular, Azure, SQL Server
 - **Impact**: Simplified bidding processes
 
-## 🎓 Education & Certifications
-- **B.Sc. in Computer Engineering** University of Information Technology
-- **Certifications**: Java, PMP Prep, Agile-Scrum, Solana Developer
 ## 📬 Contact
 - **Email/Slack**: [veitvu@outlook.com](mailto:veitvu@outlook.com)
 - **LinkedIn**: [Veit Vu](https://linkedin.com/in/veitvu)
