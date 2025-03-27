@@ -7,16 +7,16 @@ Experienced Full-stack Developer with over 8 years in .NET and 5 years managing 
 |----------|--------|
 | **Languages** | C#, Python, Java, JavaScript, TypeScript, React, Rust, PHP, C/C++ |
 | **Frameworks** | .NET Core, React, Next.js, Spring Boot, FastAPI, ASP.NET, Angular, Vue |
-| **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite *(Advanced: Stored Procedures, Query Optimization, Data Modeling)* |
+| **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite |
 | **DevOps & Cloud** | Docker, Redis, Azure, Jenkins, Kubernetes, Kibana |
-| **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts) |
+| **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts), GraphQL API |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Jira, Trello |
 ## 💼 Professional Experience
 ### DeFi Lending Platform
 - Architected and developed a full-stack DeFi lending platform on Solana blockchain.
 - Implemented secure smart contracts for lending pools, borrowing, staking, and governance.
 - Created a modular React/Next.js frontend with comprehensive features for DeFi operations.
-- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Solana Web3.js
+- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, GraphQL, Solana Web3.js
 
 ### Lecturer (Programming & AI Research)
 - Taught programming and researched AI with large language models (CodeLlama, GPT-2).
