@@ -12,7 +12,7 @@ Experienced Full-stack Developer with over 8 years in .NET and 5 years managing 
 | **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts) |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Jira, Trello |
 ## 💼 Professional Experience
-### Blockchain Developer (DeFi Lending Platform)
+### DeFi Lending Platform
 - Architected and developed a full-stack DeFi lending platform on Solana blockchain.
 - Implemented secure smart contracts for lending pools, borrowing, staking, and governance.
 - Created a modular React/Next.js frontend with comprehensive features for DeFi operations.
