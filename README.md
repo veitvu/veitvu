@@ -1,22 +1,22 @@
 # Veit Vu
-
 **Full-stack Developer** | *Ho Chi Minh City, Vietnam* | [veitvu@outlook.com](mailto:veitvu@outlook.com) | [LinkedIn](https://linkedin.com/in/veitvu) | [GitHub](https://github.com/veitvu)
-
 ## 🚀 Overview
-
-Experienced Full-stack Developer with over 8 years in .NET and 5 years managing complex database systems. I specialize in crafting scalable applications using C#, Python, Java, and React, with expertise in microservices, database optimization, and ERP solutions. Passionate about delivering impactful tech solutions.
-
+Experienced Full-stack Developer with over 8 years in .NET and 5 years managing complex database systems. I specialize in crafting scalable applications using C#, Python, Java, React, and Solana blockchain development, with expertise in microservices, database optimization, ERP solutions, and DeFi applications. Passionate about delivering impactful tech solutions across traditional and blockchain environments.
 ## 🛠️ Technical Skills
-
 | Category | Skills |
 |----------|--------|
-| **Languages** | C#, Python, Java, JavaScript, TypeScript, React, PHP, C/C++ |
-| **Frameworks** | .NET Core, React, Spring Boot, FastAPI, ASP.NET, Angular, Vue |
+| **Languages** | C#, Python, Java, JavaScript, TypeScript, React, Rust, PHP, C/C++ |
+| **Frameworks** | .NET Core, React, Next.js, Spring Boot, FastAPI, ASP.NET, Angular, Vue |
 | **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite *(Advanced: Stored Procedures, Query Optimization, Data Modeling)* |
 | **DevOps & Cloud** | Docker, Redis, Azure, Jenkins, Kubernetes, Kibana |
+| **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts) |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Jira, Trello |
-
 ## 💼 Professional Experience
+### Blockchain Developer (DeFi Lending Platform)
+- Architected and developed a full-stack DeFi lending platform on Solana blockchain.
+- Implemented secure smart contracts for lending pools, borrowing, staking, and governance.
+- Created a modular React/Next.js frontend with comprehensive features for DeFi operations.
+- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Solana Web3.js
 
 ### Lecturer (Programming & AI Research)
 - Taught programming and researched AI with large language models (CodeLlama, GPT-2).
@@ -43,6 +43,21 @@ Experienced Full-stack Developer with over 8 years in .NET and 5 years managing 
 - **Tech**: C Embedded, Arduino, RS232 Protocol
 
 ## 🌟 Key Projects
+### Solana Lending Pool DeFi Platform
+*Full-stack decentralized finance platform enabling lending, borrowing, and staking on Solana blockchain.*
+- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Tailwind CSS
+- **Features**: 
+  - Decentralized lending pools with dynamic interest rates
+  - Collateralized borrowing with health factor monitoring
+  - Token staking with rewards distribution
+  - DAO governance for protocol parameters
+  - Real-time price feeds and liquidation risk management
+- **Architecture**:
+  - Modular React components following atomic design principles
+  - Context-based state management with reducers
+  - Internationalization support
+  - Comprehensive analytics and risk assessment tools
+- **Impact**: Created a secure, user-friendly DeFi platform with comprehensive financial tools
 
 ### Odoo ERP Accounting App
 *Accounting module to manage customers, invoices, and payments.*
@@ -70,12 +85,9 @@ Experienced Full-stack Developer with over 8 years in .NET and 5 years managing 
 - **Impact**: Simplified bidding processes
 
 ## 🎓 Education & Certifications
-
 - **B.Sc. in Computer Engineering** University of Information Technology
-- **Certifications**: Java, PMP Prep, Agile-Scrum
-
+- **Certifications**: Java, PMP Prep, Agile-Scrum, Solana Developer
 ## 📬 Contact
-
 - **Email/Slack**: [veitvu@outlook.com](mailto:veitvu@outlook.com)
-- **LinkedIn**: Veit Vu
-- **GitHub**: veitvu
+- **LinkedIn**: [Veit Vu](https://linkedin.com/in/veitvu)
+- **GitHub**: [veitvu](https://github.com/veitvu)
